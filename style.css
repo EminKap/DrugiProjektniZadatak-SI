@@ -1,0 +1,21 @@
+.head-title {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:5vw;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.odsjeci {
+    text-align:center;
+    font-size:3vw;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
